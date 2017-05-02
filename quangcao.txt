@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ABPVN List [remove dead domain]
+! Title: QUANG CAO LA CHUYEN NHO
 ! Expires: 3 days
 ! Updated: 02 May 2017 15:23:43
 ! Version: 201705021523
